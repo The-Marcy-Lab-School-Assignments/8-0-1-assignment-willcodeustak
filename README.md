@@ -1,3 +1,7 @@
+## My link for 8-0-1
+
+https://eight-0-1-assignment-willcodeustak.onrender.com
+
 # Build a Static Web Server Using Express!
 
 In this assignment, you will be tasked with creating and deploying a simple Express server. The server will have four GET endpoints, two that serve HTML and two that serve raw data. One of those data endpoints will use query parameters.
@@ -103,10 +107,6 @@ Any time that you send a request to the server, the request method, url, and tim
 ## Part 3 — Deploy
 
 When you're done, push your code to github and [follow these steps to deploy using Render](https://github.com/The-Marcy-Lab-School/render-deployment-instructions). Then, add the deployed link to your GitHub About section. Click on the gear icon to set the Website url (see below)
-
-## My link for 8-0-1
-
-https://eight-0-1-assignment-willcodeustak.onrender.com
 
 ![](./images/deployed-github.png)
 
